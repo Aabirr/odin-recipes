@@ -1,4 +1,6 @@
 # odin-recipes
 
-Basic website with HTML for Odin projects.
-I will use only HTML for this.
+Basic website with HTML and CSS for Odin projects.
+
+Live Website link : https://aabirr.github.io/odin-recipes/recipes/chorizo-&-mozzarella-gnocchi-bake.html
+
